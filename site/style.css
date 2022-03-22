@@ -1,12 +1,12 @@
-/** {
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	overflow: scroll;
 
-}*/
+}
 
-/*p {
+p {
 			color: #00ff00;
 			font-size: 30px;
 			font-width: 30px;
@@ -18,10 +18,10 @@
 
 
 
-		}*/
+		}
 
 
-		/*.zentrieren {
+		.zentrieren {
 			width: 200px;
 			height: 200px;
 			padding: 20px 10px 20px 20px;
@@ -32,9 +32,9 @@
 			background: black;
 			float: right;
 			clear: right;
-		}*/
+		}
 
-/*		#duschwein {
+		#duschwein {
 			font-family: "Courier New", Times, serif;
 			color:  blue;
 
@@ -70,9 +70,9 @@ section li a:hover, a:active {
 
 section li:nth-child(3):hover{
 	background-color: grey;
-}*/
+}
 
-/*#media1bsp {
+#media1bsp {
 	background-color: black;
 	width:  300px;
 }
@@ -101,7 +101,7 @@ section li:nth-child(3):hover{
 	#media2{
 		width: 50%;
 	}
-}*/
+}
 
 
 p {
