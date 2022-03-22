@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: scroll;
+
+}
+
+body {
+	
+}
+
+p {
+			color: #00ff00;
+			font-size: 30px;
+			font-width: 30px;
+			font-weight: bolder;
+			text-align: right;
+			font-family: Arial, Times, serif;
+
+
+
+		}
+
+		.zentrieren {
+			width: 200px;
+			height: 200px;
+			padding: 20px 10px 20px 20px;
+			border: 20px;
+			margin: 40px;
+			color: green;
+			font-size: 50px;
+			background: black;
+		}
+
+		#duschwein {
+			font-family: "Courier New", Times, serif;
+			color:  blue;
+
+		}
+section li {
+	color: green;
+}
+
+section.zentrieren {
+	font-style: italic;
+
+}
+
+section div {
+	font-size: 12px;
+	color: mediumblue;
+
+}
+
+section li {
+	list-style: disc;
+}
+
+section li a:link, a:visited{
+	font-style: italic;
+
+}
+section li a:hover, a:active {
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+section li:nth-child(3):hover{
+	background-color: grey;
+}
